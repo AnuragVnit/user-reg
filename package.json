@@ -1,0 +1,20 @@
+{
+  "name": "user-reg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.4"
+  }
+}
